@@ -1,0 +1,182 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.part_1{
+	background-color: #86509C;
+	height: auto;
+	color: #FCFEF9;
+}
+.navbar_custom{
+	margin-top: 50px;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.navbar-brand{
+	color: #FCFEF9;
+}
+.navbar-right a{
+	color: #FCFEF9;
+}
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #a570b3;
+}
+.after_heading{
+	text-align: center;
+}
+.margin-top{
+	margin-top: 20px;
+}
+.margin-bottom{
+	margin-bottom: 20px;
+}
+.part_2{
+	background-color: #18C2A5;
+	color: white;
+}
+.box{
+	text-align: center;
+}
+.box h1{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.box p{
+	font-size: 20px;
+}
+.line img{
+	margin-top: -20px;
+	height: 100%;
+}
+.data{
+	text-align: center;
+}
+.data h3{
+	font-weight: bold;
+}
+.logo{
+	text-align: center;
+	width: 100%;
+}
+/*---------------------*/
+.part_3{
+	background-color: #E7F2F8;
+}
+.box_2{
+	margin-top: 70px;
+	text-align: center;
+	color: #3E4861;
+
+}
+.box_2 h1{
+	text-transform: uppercase;
+	color: #3E4861;
+	font-weight: bold;
+}
+.box_2 p{
+	font-size: 16px;
+	color: #3E4861;
+	font-weight: bold;
+}
+.box_2 img{
+	height: auto;
+	margin-top: -20px;
+}
+.details{
+	text-align: center;
+}
+.details h3{
+	font-weight: bold;
+	color: #3E4861;
+}
+.a p{
+	color: blue;
+	font-weight: bold;
+}
+.logo{
+	text-align: center;
+	width: 100%;
+}
+.social{
+	margin-bottom: 70px;
+	text-align: center;
+}
+/*-----------*/
+.part_4{
+	background-color: #FFFFFF;
+}
+.part_5{
+	background-color: #FFDD99;
+	height: auto;
+}
+.service img{
+	width: 100%;
+}
+.button{
+	text-align: center;
+	margin-bottom: 40px;
+}
+.btn-a{
+	background-color: #ECC985;
+	font-weight: bold;
+}
+.btn-b{
+	background-color: #18C2A5;
+}
+.part_6{
+	background-color:#D74681 ;
+}
+.heading{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 50px;
+}
+.content{
+	text-align: center;
+	
+}
+.logo img {
+	width: 100%;
+}
+.part_7{
+	background-color: #3C549A;
+	height: auto;
+}
+.form{
+	margin-top: 50px;
+
+}
+.form-inline{
+	text-align: center;
+	background-color: transparent;
+}
+.form-control
+{
+	margin-right: 20px;
+	padding: 20px;
+    width: 100%;
+    font-size:14pt;
+    background-color: #273A72;
+    border-color: transparent;
+	border-radius: 10px;
+}
+.form-control-2{
+	height: 100px;
+	font-size:14pt;
+	width: 50%;
+	margin-bottom: 50px;
+	background-color: #273A72;
+	border-color: transparent;
+	border-radius: 10px;
+}
+.part_8{
+	background-color: #344B8F;
+}
+.btn-b{
+	background-color: transparent;
+	color: white;
+	font-weight: bolder;
+	font-size: 20px;
+}
